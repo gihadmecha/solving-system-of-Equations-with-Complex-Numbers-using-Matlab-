@@ -1,2 +1,2 @@
-# solving-system-of-Equations-with-Complex-Numbers-using-Matlab-
+# solvingSystemOfEquationsWithComplexNumbersUsingMatlab
 problem slides
